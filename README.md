@@ -1,3 +1,4 @@
+## Formulário de Clientes
 ![print](./.github/form.png)
 
 Projeto pessoal desenvolvido para prática. Formulário para cadastro de clientes de uma loja ou de um site.
@@ -8,6 +9,8 @@ Projeto pessoal desenvolvido para prática. Formulário para cadastro de cliente
 
 - HTML
 - CSS
+- JavaScript
+- Git
 
 # 📱 Contato
 rafaeluzan@live.com
